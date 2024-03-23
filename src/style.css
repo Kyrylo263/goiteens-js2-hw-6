@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-    max-width: 600px;
+    max-width: 700px;
     margin: 50px auto;
     padding: 20px;
     background-color: #ededed;
@@ -25,11 +25,11 @@ h1 {
     margin-bottom: 20px;
 }
 
-.submitBtn:hover {
+.submitButton:hover {
     background-color: #a06545;
 }
 
-.submitBtn {
+.submitButton {
     padding: 10px 20px;
     font-size: 16px;
     background-color: #af6d4c;
